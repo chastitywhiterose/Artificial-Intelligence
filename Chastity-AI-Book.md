@@ -48,7 +48,7 @@ In contrast, most of the AI chat bots are completely opposite in these categorie
 2. AI chat bots cannot easily be run on your own computer alone. They have to be connected to the massive super computers in AI data centers. This means a lack of freedom and a risk to your privacy because anything you say to a bot can and will be used against you by a company that has billions of dollars. You have no legal right to defend yourself if something goes wrong.
 3. The third thing is that the companies who create the bots are requiring people to pay a subscription fee for the rest of their life if they want to keep using the tool. In a sense, the user becomes a victim because they depend on a tool that they can never purchase but only rent. In this way, subscription AI bots should be avoided just like a subscription to Microsoft Word or Adobe Photoshop.
 
-I am very Pro-AI when it comes to a tool that enables someone to play unlimited Chess without another willing human. Or perhaps AI tools that are used to assist the blind or deaf be being the eyes or ears that they need but lack.
+I am very Pro-AI when it comes to a tool that enables someone to play unlimited Chess without another willing human. Or perhaps AI tools that are used to assist the blind or deaf by being the eyes or ears that they need but lack.
 
 At the same time, I am very Anti-AI when the AI in question is controlled by a company which steals your data and sells it for a profit while also charging you endless fees for the use of their bot that offers substandard quality compared to advice by a real human.
 
