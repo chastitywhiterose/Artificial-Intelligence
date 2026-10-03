@@ -52,5 +52,13 @@ I am very Pro-AI when it comes to a tool that enables someone to play unlimited 
 
 At the same time, I am very Anti-AI when the AI in question is controlled by a company which steals your data and sells it for a profit while also charging you endless fees for the use of their bot that offers substandard quality compared to advice by a real human.
 
+Sources:
 
+Exploring the Dangers of AI in Mental Health Care:  
+<https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care>
 
+She told no one about her agony except ChatGPT. What her death reveals about AI risks:  
+<https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health>
+
+Why ChatGPT Shouldn’t Be Your Therapist:  
+<https://www.scientificamerican.com/article/why-ai-therapy-can-be-so-dangerous/>
