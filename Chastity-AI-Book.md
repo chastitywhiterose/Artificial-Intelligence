@@ -12,18 +12,23 @@ My personal issue with AI is not that it is a machine, but that history is being
 
 # Is This the Real Art?
 
-People often criticize AI generated pictures or music for taking money away from real artists who should be paid for what they made with their time, blood, sweat, and tears.These concerns are valid, but it raises larger questions. Can humans tell the difference between pictures, music, or videos made by Artificial Intelligence compared to what a human can make?
+People often criticize AI generated pictures or music for taking money away from real artists who should be paid for what they made with their time, blood, sweat, and tears. These concerns are valid, but it raises larger questions. Can humans tell the difference between pictures, music, or videos made by Artificial Intelligence compared to what a human can make?
 
-From what I have seen, I would argue that it is usually impossible to see the difference between something made from an AI vs a human. AI is getting so good that I can’t tell what is real.What even is real art? All artists take inspiration from other sources and generate remixes based on what they know. The reason AI threatens artists is because it knows everything and has been fed the writings, music, and visual art made by people who were never paid.
+From what I have seen, I would argue that it is usually impossible to see the difference between something made from an AI vs a human. AI is getting so good that I can’t tell what is real. What even is real art? All artists take inspiration from other sources and generate remixes based on what they know. The reason AI threatens artists is because it knows everything and has been fed the writings, music, and visual art made by people who were never paid.
 
-But it goes deeper than that, people are not given the sources used to generate art. The AI bots will never give credit to the people whose art was used to train the AI in the first place. And sometimes, the original creator of the art gets automatically banned for copyright infringment by a robot even though a robot stole it from them.
+But it goes deeper than that, people are not given the sources used to generate art. The AI bots will never give credit to the people whose art was used to train the AI in the first place. And sometimes, the original creator of the art gets automatically banned for copyright infringement by a robot even though a robot stole it from them.
 
-So the issue isn’t only that it potentially prevents people from buying the original work due to not knowing where it came from, but that the original work is deleted from the internet because the artist is banned and accused of stealing what was actually stolen from them.
+So the issue is not only that it potentially prevents people from buying the original work due to not knowing where it came from, but that the original work is deleted from the internet because the artist is banned and accused of stealing what was actually stolen from them.
 
-Once again, the issue is that the truth is hidden from the publc and the AI can take credit for knowing how to make art that seems original because we don't know which human made it originally. Even if the humans were paid billions of dollars by the AI companies, they would still not recieve credit for their creations. But since they are not receiving money either. two crimes are being committed against real humans by machines controlled by the owners who are profiting from someone else's work.
+Once again, the issue is that the truth is hidden from the public and the AI can take credit for knowing how to make art that seems original because we don't know which human made it originally. Even if the humans were paid billions of dollars by the AI companies, they would still not receive credit for their creations. But since they are not receiving money either. two crimes are being committed against real humans by machines controlled by the owners who are profiting from someone else's work.
 
 Sources:
 
-https://youtube.com/shorts/vfmo33iIHjs?is=Y3L2rUvWX42NQcw4
+AI companies accused of hoarding and destroying millions of books:  
+<https://www.cbsnews.com/news/ftc-ai-companies-destroying-books/>
 
+The facts about AI companies destroying books:  
+<https://youtube.com/shorts/vfmo33iIHjs?is=Y3L2rUvWX42NQcw4>
+
+# Is AI Evil or Just Another Tool?
 
