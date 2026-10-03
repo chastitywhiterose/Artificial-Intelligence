@@ -1,7 +1,7 @@
 source=Chastity-AI-Book.md
 
 title="Autistic Articles Against AI"
-subtitle="A collection of writings about Artificial Intelligence"
+subtitle="Collection of writings about the Dangers of Artificial Intelligence"
 author="Chastity White Rose"
 
 push:

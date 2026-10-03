@@ -1,5 +1,7 @@
 # Autistic Articles Against AI
 
+Collection of writings about the Dangers of Artificial Intelligence
+
 I had decided not to write a book in favor of Artificial Intelligence or against it. But when I saw it shoved into my face on all social media, and that even Linux users and developers were being led astray, I felt it was right to write this short book.
 
 I want to stand with those who speak against AI slop and warn believers in Free Software to stay watchful. I could hardly believe that even Linus Torvalds could be deceived enough to share in their suffering and confusion.
