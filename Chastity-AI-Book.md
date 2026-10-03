@@ -32,3 +32,25 @@ The facts about AI companies destroying books:
 
 # Is AI Evil or Just Another Tool?
 
+Because most of my writing on Artificial Intelligence focuses mostly on the negative side, you might assume that I am strictly Anti-AI. However, it would be a mistake to assume this. I do not think that AI is good or evil, but at the same time, I am very critical about the intentions behind who AI bots are being created by multiple companies and why the governments of the world are making laws related to the use and regulation of AI.
+
+Artificial Intelligence is still only a computer program and has existed in some form since long before I was born. Chess engines are my favorite example of a machine used for a purpose that is not evil in any sense I can imagine.
+
+There are 3 reasons I approve fully of computers being used as an opponent for humans to play Chess against.
+
+1. Computers are often the only option to play with when you have no friends available who are willing to play Chess or even interested in learning.
+2. Chess engines can run locally on a computer or even a phone without being required to be connected to the internet. Private usage to train against is certainly not hurting anyone and only benefits the person who has fun playing against the Chess AI.
+3. Chess engines are also mostly available as either Free Software or sometimes in the form of commercial software that you can pay for once and use.
+
+In contrast, most of the AI chat bots are completely opposite in these categories.
+
+1. When your goal is to learn about a topic or get an answer to a question, a chat bot is not as reliable as a Chess engine is for playing Chess. You are better off Google searching and reading real answers by humans with experience, or maybe going to make some friends in the real world to chat with.
+2. AI chat bots cannot easily be run on your own computer alone. They have to be connected to the massive super computers in AI data centers. This means a lack of freedom and a risk to your privacy because anything you say to a bot can and will be used against you by a company that has billions of dollars. You have no legal right to defend yourself if something goes wrong.
+3. The third thing is that the companies who create the bots are requiring people to pay a subscription fee for the rest of their life if they want to keep using the tool. In a sense, the user becomes a victim because they depend on a tool that they can never purchase but only rent. In this way, subscription AI bots should be avoided just like a subscription to Microsoft Word or Adobe Photoshop.
+
+I am very Pro-AI when it comes to a tool that enables someone to play unlimited Chess without another willing human. Or perhaps AI tools that are used to assist the blind or deaf be being the eyes or ears that they need but lack.
+
+At the same time, I am very Anti-AI when the AI in question is controlled by a company which steals your data and sells it for a profit while also charging you endless fees for the use of their bot that offers substandard quality compared to advice by a real human.
+
+
+
