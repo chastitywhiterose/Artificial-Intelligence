@@ -34,7 +34,7 @@ The facts about AI companies destroying books:
 
 # Is AI Evil or Just Another Tool?
 
-Because most of my writing on Artificial Intelligence focuses mostly on the negative side, you might assume that I am strictly Anti-AI. However, it would be a mistake to assume this. I do not think that AI is good or evil, but at the same time, I am very critical about the intentions behind who AI bots are being created by multiple companies and why the governments of the world are making laws related to the use and regulation of AI.
+Because most of my writing on Artificial Intelligence focuses mostly on the negative side, you might assume that I am strictly Anti-AI. However, it would be a mistake to assume this. I do not think that AI is good or evil, but at the same time, I am very critical about the intentions behind who AI bots are being created by. multiple companies and why the governments of the world are making laws related to the use and regulation of AI.
 
 Artificial Intelligence is still only a computer program and has existed in some form since long before I was born. Chess engines are my favorite example of a machine used for a purpose that is not evil in any sense I can imagine.
 
@@ -64,3 +64,40 @@ She told no one about her agony except ChatGPT. What her death reveals about AI 
 
 Why ChatGPT Shouldn’t Be Your Therapist:  
 <https://www.scientificamerican.com/article/why-ai-therapy-can-be-so-dangerous/>
+
+# Quality is not the Problem
+
+When people boycott Artificial Intelligence and try to persuade people not to use generative AI, the term AI slop is often used. This is a term I use for many reasons and I like it. My usage of the phrase “AI slop” specifically refers to art (in many possible forms) which is low quality. But not all AI content is low quality nor would I call it all slop.
+
+In many cases, humans can and do produce art in the form of pictures or text that are much better quality than purely AI generated content. However, art is a subjective experience with humans each having their own biases. My point, however, is that the quality of the art, whether good or bad, should never be used as an argument for or against the use of Artificial Intelligence.
+
+One of the most controversial areas of using AI is in the making of computer software. Because all AI is really just a computer program, and programs can be used to read and write programs, AI does especially well at writing programs. Just like Chess, this is one of the areas where AI seems to win against most humans. MOST HUMANS, that is.
+
+The average human is not a very good computer programmer because it takes a special kind of focus and obsession to spend 8 hours straight writing a complicated program that accounts for all kinds of user input and generates correct output. Therefore, these AI models can probably write programs better than humans because unlike humans, machines do not need to eat, drink, sleep, work a job for money, pee, poop, shower, or fight with their spouse about who is going to drive the kids to school. Artificial Intelligence just has more time and can operate faster and with no mathematical mistakes either!
+
+I am not worried about being replaced as a computer programmer because I only do it completely for fun, but I do follow all the tech news and what the other software developers are saying about how it has affected their jobs and the prices of hardware and software in general.
+
+Something went wrong some time ago. CEOs of tech companies decided they could use AI to replace humans and then fire humans from their jobs. On paper it makes sense because AI doesn't require a salary. It is just a program operating on computers and doesn't have the same needs as humans do. Those in charge of companies figure out that they can save millions by just not hiring and paying human staff.
+
+But what happens when it works? Suppose that company X lays off all its staff and just runs AI full time to create and sell some program that is only available by that company for some reason (this never happens in the real world because there are always better Open Source alternatives). Who is going to buy it?
+
+You see, the other companies had the same idea and got rid of as many human workers as they could. Now you have millions of humans with no jobs who can't get an interview for another job because there are no jobs left for humans and even when there are, AI is reading the applications and resumes to decide who is qualified to be interviewed by an AI instead of a human.
+
+Then you have a world full of things to sell but no customers to sell them to. The humans die because they can't pay their rent or buy food and then everything collapses. Not because AI was less qualified at doing there jobs but because it was, and because to the Presidents, CEOs, and managers of companies, it seemed like a great idea to just not have employees.
+
+I should know better than anyone how much better computers are than humans when it comes to doing math, because they are just giant calculators, but I don't like the effect it has on the world when the humans are killed and replaced with machines to do all their work. Computers were made for humans, not humans for the computers. That is why in the final part of my "Assembly Magic" poem, I was writing about how code was no use unless there was at least one human to understand and enjoy it.
+
+```
+
+But the special way I write my programs  
+Is yet another form of  Creative Writing  
+And because of evil tech companies  
+People like me cannot stop fighting  
+
+They fire people and replace them with AI  
+But that will only work for a short while  
+Because the code is of no use at all  
+Unless it can make a human soul smile
+
+```
+
